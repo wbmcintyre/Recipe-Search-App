@@ -8,4 +8,4 @@ Users can use the search bar at the top to create a pull request from the API. T
 
 ### Note
 
-The sass and html were provided for this project.
+The sass and html were provided for this course project.
